@@ -19,7 +19,7 @@ This course will be using MongoDB Atlas, a cloud-based Mongo service, for hands-
 
 For class exercises you can use an Atlas cluster that has already been created:
 
-1. [Open this repository in Gitpod](https://gitpod.io/#https://github.com/nmagee/mongodb-practice/)
+1. [Open this repository in Gitpod](https://gitpod.io/#https://github.com/l-e13/mongodb-practice/)
 
 2. Set up (if necessary)
 ```
